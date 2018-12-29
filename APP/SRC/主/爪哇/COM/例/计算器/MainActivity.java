@@ -10,12 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-/**
- * @author yiyi
- * 可能有些许Bug，烦请指正。
- *
- *
- */
+
 
 public class MainActivity extends AppCompatActivity {
     private int[] idNum = {R.id.txt0, R.id.txt1, R.id.txt2, R.id.txt3,
